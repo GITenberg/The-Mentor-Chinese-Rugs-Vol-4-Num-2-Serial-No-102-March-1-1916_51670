@@ -1,0 +1,25 @@
+_repo: The-Mentor-Chinese-Rugs-Vol-4-Num-2-Serial-No-102-March-1-1916_51670
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mumford, John Kimberly
+    alias: Mumford, John K.
+    birthdate: 1863
+    deathdate: 1926
+    gutenberg_agent_id: '43748'
+    url: http://www.gutenberg.org/2009/agents/43748
+description: ''
+gutenberg_issued: '2016-04-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51670'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rugs, Oriental'
+- !lcc 'NK'
+- GITenberg
+title: 'The Mentor: Chinese Rugs, Vol. 4, Num. 2, Serial No. 102, March 1, 1916'
+url: http://www.gutenberg.org/ebooks/51670
